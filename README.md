@@ -4,7 +4,6 @@
 
 <h1 align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lexasy&theme=radical"/></h1>
 
-<h1 align="left"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpuejN1eTRjbHR6em10N3p1M2E1c2lqMGlvZ2tuNmVhYm4yb2ppMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YkHMAt23ZdcbZMgIgs/giphy.gif"/></h1>
-<h1 align="right"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazcwdXJ4M3Y5enBuY3UzZXU5dHhidjh2dDZtbmFkbWE3bzB2YnRwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xya1wqk6fvbK7XmuwH/giphy.gif"/></h1>
+<h1 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanpuejN1eTRjbHR6em10N3p1M2E1c2lqMGlvZ2tuNmVhYm4yb2ppMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YkHMAt23ZdcbZMgIgs/giphy.gif"/></h1>
 
 

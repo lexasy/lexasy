@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lexasy&theme=radical"/></h1>
 
-<h1 align="left"><img src="https://media1.tenor.com/m/Jc9jT66AJRwAAAAd/chipi-chipi-chapa-chapa.gif"/></h1>
+<h1 align="left"><img src="https://opis-cdn.tinkoffjournal.ru/mercury/in-out-chipi-chipi-chapa-chapa.smd1salxowjj..gif"/></h1>
 
 
 

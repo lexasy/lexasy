@@ -4,7 +4,7 @@
 
 <h1 align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lexasy&theme=radical"/></h1>
 
-<h1 align="center"><img src="https://media1.giphy.com/media/10FwycrnAkpshW/giphy.gif"/></h1>
+<h1 align="left"><img src="https://media1.giphy.com/media/10FwycrnAkpshW/giphy.gif"/></h1>
 
 
 
